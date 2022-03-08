@@ -19,7 +19,7 @@ export default function Home() {
 
 
         <Link href="/ninjas" >
-          <a className={styles.btn}>See All Ninja list</a>
+          <a className={styles.btn}>See all Ninja list</a>
         </Link>
 
       </div>
